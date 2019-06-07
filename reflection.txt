@@ -1,0 +1,3 @@
+server.use(morgan('tiny'));
+//'tiny' here will generate log on console which is very brief.
+//also check for 'combined', 'common'
